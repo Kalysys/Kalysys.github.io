@@ -1,2 +1,3 @@
-# Kalysys.github.io
-Repo for hosting Clevero github pages
+# Clevero interactions documentation
+
+This is repository for hosting clevero-interactions documentation in github pages.
